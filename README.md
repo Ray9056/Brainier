@@ -1,6 +1,6 @@
 # Clicky-Game-w-React
 
-[Check out the App](#)
+[Check out the App](https://videogame-clickygame.herokuapp.com)
 
 ## Step One (Clone the Repository) ##
 
