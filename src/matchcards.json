@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/Counter-Strike_Global_Offensive.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/Destiny 2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/Dota 2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/Fortnite.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/Grand Theft Auto V.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/League of Legends.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/Minecraft.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/Overwatch.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/PLAYERUNKNOWN'S BATTLEGROUNDS.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/Teamfight Tactics.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/Warframe.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/World of Warcraft.jpg",
+        "clicked": false
+    }
+]
