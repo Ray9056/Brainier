@@ -1,5 +1,5 @@
 # Brainer - Memory Game
-[Check out the App](https://videogame-clickygame.herokuapp.com)
+[Check out the App](https://brainer-memory-game.herokuapp.com/)
 
 Test your memory with the latest games out right now!
 Click on each game cover once to win the game. But don't click on a game cover twice, or it's game over for you!
