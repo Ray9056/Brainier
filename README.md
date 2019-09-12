@@ -1,4 +1,4 @@
-# Brainer
+# Brainer - Memory Game
 [Check out the App](https://videogame-clickygame.herokuapp.com)
 
 Test your memory with the latest games out right now!
