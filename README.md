@@ -23,3 +23,5 @@ Built with React.
     - react-scripts
     
 [![Image from Gyazo](https://i.gyazo.com/9e56adf0fc2ace6ef636f35a91764432.gif)](https://gyazo.com/9e56adf0fc2ace6ef636f35a91764432)
+
+Copyright 2019 © [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
