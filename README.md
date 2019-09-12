@@ -6,7 +6,7 @@ Click on each game cover once to win the game. But don't click on a game cover t
 Built with React.
 
 ## How to Play ##
-* Click on any painting that you desire
-* The paintings will all reshuffle themselves
-* Click on another painting, but REMEMBER that you can only click on a painting once
+* Click on any game cover that you desire
+* The game covers will all reshuffle themselves
+* Click on another game cover, but REMEMBER that you can only click on a game cover once
 * Keep going to see if you can get all 24
