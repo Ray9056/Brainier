@@ -9,4 +9,4 @@ Built with React.
 * Click on any game cover that you desire
 * The game covers will all reshuffle themselves
 * Click on another game cover, but REMEMBER that you can only click on a game cover once
-* Keep going to see if you can get all 24
+* Keep going to see if you can get all 12
